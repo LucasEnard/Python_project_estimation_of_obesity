@@ -13,8 +13,9 @@
 
 ## Introduction
 
-Made by :
+Python project for the classe python for data analysis at ESILV.
 
+Made by :
  * Lucas Enard
  * Myriam Essafoui
 
