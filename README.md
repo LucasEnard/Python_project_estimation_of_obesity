@@ -1,15 +1,15 @@
 **Table of Contents**
 
-- [Introduction](#-introduction)
-- [Objectives](#-objectives)
-- [Dataset introduction](#-dataset-introduction)
+- [Introduction](#introduction)
+- [Objectives](#objectives)
+- [Dataset introduction](#dataset-introduction)
   - [Dataset](#dataset)
-- [Dataset exploration and visualization](#-data-viz)
-  - [Visualization](#-viz)
-- [Modeling](#-modeling)
-  - [First model](#-first-steps)
-  - [Final model](#-final-model)
-- [Conclusion](#-conclusion)
+- [Dataset exploration and visualization](#dataset-exploration-and-visualization)
+  - [Visualization](#visualization)
+- [Modeling](#modeling)
+  - [First model](#first-model)
+  - [Final model](#final-model)
+- [Conclusion](#conclusion)
 
 ## Introduction
 
