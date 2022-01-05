@@ -66,7 +66,7 @@ We chose five algorithms to try and predict the class (label) of each individual
  
 -SGD 
 
- Logistic regression
+-Logistic regression
 
 There were seven different labels as seen earlier and we decided to measure the performance to show the accuracy of the model but also the MEA (mean absolute error).​
 
