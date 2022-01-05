@@ -38,6 +38,8 @@ The content of this github is :
 ### Dataset
 We selected the following [dataset](https://archive.ics.uci.edu/ml/datasets/Estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition+) which include data for the estimation of obesity levels in individuals from the countries of Mexico, Peru and Colombia, based on their eating habits and physical condition.
 
+You can find more information about the dataset on the powerpoint or directly on the website.
+
 The first thing we did was to try and understand the content of the dataset, the records are labeled with the class variable NObesity (Obesity Level), that allows classification of the data using the values of Insufficient Weight, Normal Weight, Overweight Level I, Overweight Level II, Obesity Type I, Obesity Type II and Obesity Type III. 
 
 ## Dataset exploration and visualization
@@ -68,7 +70,7 @@ We chose five algorithms to try and predict the class (label) of each individual
 
 -Logistic regression
 
-There were seven different labels as seen earlier and we decided to measure the performance to show the accuracy of the model but also the MEA (mean absolute error).​
+There were seven different labels as seen earlier and we decided to measure the performance to show the accuracy of the model but also the MEA (mean absolute error).
 
 The MEA allows use to understand if the models are only a little wrong, which means predicting high obesity type 1 instead of type 2 or if it predicts underweight in an obesity type 2 situation.
 
