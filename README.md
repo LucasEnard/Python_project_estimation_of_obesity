@@ -9,6 +9,7 @@
 - [Modeling](#modeling)
   - [First model](#first-model)
   - [Final model](#final-model)
+- [API](#api)
 - [Conclusion](#conclusion)
 
 ## Introduction
@@ -45,5 +46,12 @@ Can we predict the BMI of a subject using only his habits and practices?
 
 To explore more in details this problematic we used different models to predict he outcomes to then do a gridsearch and optimize the best of them.
 
+## API
+To start using the API only Django is needed, which you can install with the 'python -m pip install Django' command in your shell.
+Afterwards you have to clone the projet with a 'git clone link'.
+You can then open a console in this folder and use the 'python manage.py runserver' command.
+Finally you can acces our API by puting '127.0.0.1:8000' into your browser.
+
+
 ## Conclusion
-With a knn having an accuracy of 0.82 and a mean absolute error of 0.35 after a gridsearch we can conclude that it is indeed possible to to predict the BMI of a subject or to be near it using only his habits and practices.
+With a knn having an accuracy of 0.82 and a mean absolute error of 0.35 after a gridsearch we can conclude that it is indeed possible to predict the BMI of a subject or to be near it using only his habits and practices.
