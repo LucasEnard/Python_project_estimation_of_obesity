@@ -1,7 +1,7 @@
 **Table of Contents**
 
 - [Introduction](#introduction)
-- [Objectives](#objectives)
+- [Objectives and content](#objectives-and-content)
 - [Dataset introduction](#dataset-introduction)
   - [Dataset](#dataset)
 - [Dataset exploration and visualization](#dataset-exploration-and-visualization)
@@ -15,13 +15,24 @@
 ## Introduction
 
 Python project for the classe python for data analysis at ESILV.
+In this readme you will find all the informations needed to understand the thought process but also how to use the API.
 
 Made by :
  * Lucas Enard
  * Myriam Essafoui
 
-## Objectives
+## Objectives and content
 The objective is to use python for data analysis and modeling differents machine learning models around a given dataset.
+
+The content of this github is :
+
+-The Dataset of obesity levels based on eating habits and physical condition in individuals from Colombia, Peru and Mexico.
+
+-A Jupyter Notebook for the analysis of obesity levels with Machine Learning models to predict the BMI range of a person with and without the use of weight and height in the process. 
+
+-An API (with an explanation on how to use it at the endof the readme)
+
+-A PowerPoint presentation of the project.
 
 ## Dataset introduction
 ### Dataset
