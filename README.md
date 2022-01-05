@@ -48,8 +48,11 @@ To explore more in details this problematic we used different models to predict 
 
 ## API
 To start using the API only Django is needed, which you can install with the 'python -m pip install Django' command in your shell.
+
 Afterwards you have to clone the projet with a 'git clone link'.
+
 You can then open a console in this folder and use the 'python manage.py runserver' command.
+
 Finally you can acces our API by puting '127.0.0.1:8000' into your browser.
 
 
