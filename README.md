@@ -56,6 +56,21 @@ The problematic was now :
 Can we predict the BMI of a subject using only his habits and practices?
 
 To explore more in details this problematic we used different models to predict he outcomes to then do a gridsearch and optimize the best of them.
+We chose five algorithms to try and predict the class (label) of each individuals.
+
+-Random forest 
+
+-Decision Tree Classifier 
+
+-Knn 
+ 
+-SGD 
+
+ Logistic regression
+
+There were seven different labels as seen earlier and we decided to measure the performance to show the accuracy of the model but also the MEA (mean absolute error).​
+
+The MEA allows use to understand if the models are only a little wrong, which means predicting high obesity type 1 instead of type 2 or if it predicts underweight in an obesity type 2 situation.
 
 ## API
 To start using the API only Django is needed, which you can install with the 'python -m pip install Django' command in your shell.
