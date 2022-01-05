@@ -58,3 +58,8 @@ Finally you can acces our API by puting '127.0.0.1:8000' into your browser.
 
 ## Conclusion
 With a knn having an accuracy of 0.82 and a mean absolute error of 0.35 after a gridsearch we can conclude that it is indeed possible to predict the BMI of a subject or to be near it using only his habits and practices.
+We saw that 82% of the predictions were correct based only on the habits, and physical condition and even on the family history !
+
+Surprisingly, these factors have a significant impact on the chances of developing obesity. 
+
+To avoid and limit the probability of being affected, we should take care of our health, our eating and drinking habits, because like many chronic conditions, obesity is preventable with a healthy lifestyle
