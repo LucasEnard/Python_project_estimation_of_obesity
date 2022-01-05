@@ -49,7 +49,7 @@ To explore more in details this problematic we used different models to predict 
 ## API
 To start using the API only Django is needed, which you can install with the 'python -m pip install Django' command in your shell.
 
-Afterwards you have to clone the projet with a 'git clone link'.
+Afterwards you have to clone the projet with a 'git clone https://https://github.com/LucasEnard/Python_project_estimation_of_obesity'.
 
 You can then open a console in this folder and use the 'python manage.py runserver' command.
 
