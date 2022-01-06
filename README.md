@@ -83,6 +83,8 @@ You can then open a console in this folder and use the 'python manage.py runserv
 
 Finally you can acces our API by puting '127.0.0.1:8000' into your browser.
 
+Unfortunetly the API won't be working for now since we encontered issues with the link between the views and the urls however it is to be noted that the template home.htlm is usable.
+
 
 ## Conclusion
 With a knn having an accuracy of 0.82 and a mean absolute error of 0.35 after a gridsearch we can conclude that it is indeed possible to predict the BMI of a subject or to be near it using only his habits and practices.
