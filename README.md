@@ -54,8 +54,10 @@ At first, the model seemed obvious, we would just predict the label using all th
 However, we quickly saw that predicting the BMI using the height and the weight of the subject was of course not that hard and machine learning wasn’t needed for that since our not optimized random forest got an accuracy of 0.966
 
 ### Final Model
-The problematic was now :
-Can we predict the BMI of a subject using only his habits and practices?
+We decided to predict the label without using the weight nor the height since those made the problem too easy since a simple random forest had an accuracy of 0.966
+
+The problematic is now :
+Can we predict the BMI of a subject using ONLY his habits and practices and not his weight nor height ?
 
 To explore more in details this problematic we used different models to predict he outcomes to then do a gridsearch and optimize the best of them.
 We chose five algorithms to try and predict the class (label) of each individuals.
